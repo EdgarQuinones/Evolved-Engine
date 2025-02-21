@@ -29,7 +29,6 @@
 - **Collision detection**: of course, items, characters, walls, etc…
 - **physics engine**: Gravity, momentum
 - **rigidbody/dynamics systems**: immovable vs. movable
-- **third-party library integration**: Mix of personal code and libraries
 
 ## Audio (David)
 
